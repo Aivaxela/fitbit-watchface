@@ -1,4 +1,5 @@
 <svg class="background">
   <image href="shado.png" />
-  <text id="myLabel" />
+  <text id="time" />
+  <text id="heartRate" />
 </svg>

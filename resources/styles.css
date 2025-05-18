@@ -1,8 +1,4 @@
-.background {
-  viewport-fill: red;
-}
-
-#myLabel {
+#time {
   font-size: 80;
   font-family: System-Bold;
   text-length: 32;
@@ -10,4 +6,13 @@
   x: 50%;
   y: 90%;
   fill: yellow;
+}
+
+#heartRate {
+  font-size: 45;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: pink;
+  x: 20%;
+  y: 20%;
 }
